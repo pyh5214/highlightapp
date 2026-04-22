@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IAT 필터</string>
+    <string name="pick_photo">사진 선택</string>
+    <string name="save">저장</string>
+    <string name="new_photo">새로 선택</string>
+    <string name="title_home">저조도 이미지를 AI로 개선합니다</string>
+    <string name="processing">처리 중…</string>
+    <string name="saved">갤러리에 저장되었습니다</string>
+    <string name="save_failed">저장 실패</string>
+    <string name="intensity">강도</string>
+</resources>

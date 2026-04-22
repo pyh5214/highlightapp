@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# IAT source clone, pretrained weights, test samples, intermediate artifacts
+convert/iat_source/
+convert/weights/
+convert/artifacts/
+convert/samples/
+
+# Claude session state
+.claude/
+.kotlin/
+
+# Android
+.gradle/
+build/
+app/build/
+local.properties
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# OS
+.DS_Store
+Thumbs.db
